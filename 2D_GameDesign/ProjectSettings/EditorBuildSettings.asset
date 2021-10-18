@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Week05.unity
     guid: cd0e69a3c8b8d7e4894297afe188dfd6
+  - enabled: 1
+    path: Assets/Week 05.unity
+    guid: c3d72a6389518394e880023678d8fb74
   m_configObjects: {}
